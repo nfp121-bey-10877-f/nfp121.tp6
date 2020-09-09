@@ -1,6 +1,11 @@
 #BlueJ class context
-comment0.params=c
-comment0.target=Memento(Cotisant)
+comment0.target=Memento
 comment1.params=c
-comment1.target=void\ setState(Cotisant)
-numComments=2
+comment1.target=Memento(question1.Cotisant)
+comment2.params=c
+comment2.target=void\ setState(question1.Cotisant)
+comment3.params=
+comment3.target=question1.Cotisant\ getState()
+comment4.params=c
+comment4.target=question1.Cotisant\ copy(question1.Cotisant)
+numComments=5
